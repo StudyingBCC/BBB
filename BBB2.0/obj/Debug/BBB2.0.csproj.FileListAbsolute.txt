@@ -1,0 +1,7 @@
+C:\Users\fabiana.sdkamamoto\source\repos\BBB2.0\BBB2.0\bin\Debug\BBB2.0.exe.config
+C:\Users\fabiana.sdkamamoto\source\repos\BBB2.0\BBB2.0\bin\Debug\BBB2.0.exe
+C:\Users\fabiana.sdkamamoto\source\repos\BBB2.0\BBB2.0\bin\Debug\BBB2.0.pdb
+C:\Users\fabiana.sdkamamoto\source\repos\BBB2.0\BBB2.0\obj\Debug\BBB2.0.csproj.AssemblyReference.cache
+C:\Users\fabiana.sdkamamoto\source\repos\BBB2.0\BBB2.0\obj\Debug\BBB2.0.csproj.CoreCompileInputs.cache
+C:\Users\fabiana.sdkamamoto\source\repos\BBB2.0\BBB2.0\obj\Debug\BBB2.0.exe
+C:\Users\fabiana.sdkamamoto\source\repos\BBB2.0\BBB2.0\obj\Debug\BBB2.0.pdb
